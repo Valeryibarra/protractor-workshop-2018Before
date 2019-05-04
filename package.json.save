@@ -1,0 +1,28 @@
+{
+  "name": "workshop-protractor",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor dist/protractor/local.config.js"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valeryibarra/protractor-workshop-2018.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "protractor"
+  ],
+  "author": "Valery Ibarra <valeryibarra2@gmail.com> (Valeryibarra)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Valeryibarra/protractor-workshop-2018/issues"
+  },
+  "homepage": "https://github.com/Valeryibarra/protractor-workshop-2018#readme",
+  "devDependencies": {
+    "@types/jasminewd2": "^2.0.6",
+    "typescript": "^3.4.5"
+  }
+}
